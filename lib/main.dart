@@ -1,3 +1,4 @@
+import 'package:Fereej_test3/pages/Login_page.dart';
 import 'package:Fereej_test3/pages/homeScreen.dart';
 import 'package:Fereej_test3/pages/homeScreen1.dart';
 import 'package:Fereej_test3/pages/homeScreen2.dart';
@@ -24,7 +25,7 @@ class _MyAppState extends State<MyApp> {
         accentColor: Colors.black,
       ),
       debugShowCheckedModeBanner: false,
-      home: MainPage(),
+      home: LoginPage(),
     );
   }
 }

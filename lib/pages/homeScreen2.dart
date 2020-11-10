@@ -1,17 +1,12 @@
 import 'package:Fereej_test3/pages/main_page.dart';
-import 'package:Fereej_test3/pages/sweets_page.dart';
 import 'package:Fereej_test3/widgets/homeScreen_widgets/categorySelector.dart';
 import 'package:Fereej_test3/widgets/homeScreen_widgets/clippingClass.dart';
 import 'package:Fereej_test3/widgets/homeScreen_widgets/drawer_buttons.dart';
 import 'package:Fereej_test3/widgets/homeScreen_widgets/drawer_clipper.dart';
 import 'package:Fereej_test3/widgets/homeScreen_widgets/optionSelector.dart';
 import 'package:Fereej_test3/widgets/homeScreen_widgets/painter_class.dart';
-import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-
-import 'drinks_page.dart';
-import 'food_page.dart';
 
 MainPage myMainPage = MainPage();
 
